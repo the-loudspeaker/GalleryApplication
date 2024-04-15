@@ -55,7 +55,7 @@ The project uses version 1.9.0 of kotlin.
 A run configuration is included in the project. Just clicking run in Android studio will run the app.
 
 ### | APK:
-The final built APK can be found [here](https://drive.google.com/file/d/1M6r9YQRbt-CDaLtqQzA2ZfDfHqM2PKEm/view?usp=sharing) on drive.
+The final built APK can be found [here](https://bit.ly/galleryapk).
 
 ### | Screenshots:
 ![image 1](https://github.com/the-loudspeaker/GalleryApplication/blob/main/screenshots/Screenshot%20from%202024-04-15%2011-16-46.png?raw=true) ![image 2](https://github.com/the-loudspeaker/GalleryApplication/blob/main/screenshots/Screenshot%20from%202024-04-15%2011-17-18.png?raw=true) ![image 3](https://github.com/the-loudspeaker/GalleryApplication/blob/main/screenshots/Screenshot%20from%202024-04-15%2011-17-36.png?raw=true) ![image 4](https://github.com/the-loudspeaker/GalleryApplication/blob/main/screenshots/Screenshot%20from%202024-04-15%2011-17-48.png?raw=true)
