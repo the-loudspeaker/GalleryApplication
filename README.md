@@ -45,6 +45,8 @@ The project uses `Model-View-ViewModel` architecture.
 The app on it's own has low memory footprint. Using profiler, I noticed an idle memory usage of 97.3 MB once the app was loaded.
 <br>
 Based on the number of loaded screenshots and their size, memory usage increases. I noted a peak of 450MB when 100 images were loaded and I was scrolling quickly through all of them. The idle memory usage was around 200MB.
+<br>
+The final release build is 6.5MB in size.
 
 ### | Kotlin version
 The project uses version 1.9.0 of kotlin.
@@ -53,7 +55,7 @@ The project uses version 1.9.0 of kotlin.
 A run configuration is included in the project. Just clicking run in Android studio will run the app.
 
 ### | APK:
-The final built APK can be found [here](https://drive.google.com/file/d/1v82KcWfH-VLrRhKtgVMr8t_eEIAK400t/view?usp=sharing) on drive.
+The final built APK can be found [here](https://drive.google.com/file/d/1M6r9YQRbt-CDaLtqQzA2ZfDfHqM2PKEm/view?usp=sharing) on drive.
 
 ### | Screenshots:
 ![image 1](https://raw.githubusercontent.com/the-loudspeaker/StockHoldings/main/screenshots/Screenshot%20from%202024-04-11%2012-24-38.png) ![image 2](https://github.com/the-loudspeaker/StockHoldings/blob/main/screenshots/Screenshot%20from%202024-04-11%2012-24-45.png?raw=true)
