@@ -1,4 +1,14 @@
-## Assignment for Alle.
+## Minimal gallery Application
+A minimal gallery application which allows to pick photos and view them in a carausel.
+
+Originally buiilt as an assignemt for [Alle](https://heyalle.com/).
+
+Application uses Jetpack compose, material design, modern practices and acheives the goal without asking for any storage permissions.
+Feel free to give it a try [here](https://bit.ly/galleryapk).
+
+Find the original readme for Alle below.
+
+## Assignment for Alle
 
 ### | project notes:
 
